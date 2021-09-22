@@ -1,14 +1,17 @@
-Bauchez Marguerite 21803320
-Cocquerez Olivier 21803229
-Lebranchu Paul 21403460
-Lemaire Raphaëlle 21802756
+# Jeu de taquin
 
-Jeu de taquin
 
+## Membre du groupe
+Bauchez Marguerite 21803320  
+Cocquerez Olivier 21803229  
+Lebranchu Paul 21403460  
+Lemaire Raphaëlle 21802756  
+
+## Lancer le projet 
 Vous pouvez lancer le programme à l'aide des commandes suivantes en ouvrant un terminal dans ce dossier:
 
-- java -jar dist/exeTerm.jar pour lancer le jeu en mode console.
-- java -jar dist/exeGraph.jar pour lancer la version graphique du jeu.
+* java -jar dist/exeTerm.jar pour lancer le jeu en mode console.
+* java -jar dist/exeGraph.jar pour lancer la version graphique du jeu.
 
 
 
