@@ -2,6 +2,9 @@
 
 Projet de deuxième année de licence, réalisation d'un jeu de taquin en Java, l'objectif étant de réaliser un jeu de taquin jouable soit en console soit à l'aide d'une interface graphique tout en découvrant le pattern MVC
 
+## Source de l'image du jeu
+
+https://open.spotify.com/album/3qbcMEDN44a6vdxm12FkSM
 ## Membre du groupe
 Bauchez Marguerite 21803320  
 Cocquerez Olivier 21803229  
