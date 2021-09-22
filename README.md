@@ -1,5 +1,6 @@
 # Jeu de taquin
 
+Projet de deuxième année de licence, réalisation d'un jeu de taquin en Java, l'objectif étant de réaliser un jeu de taquin jouable soit en console soit à l'aide d'une interface graphique tout en découvrant le pattern MVC
 
 ## Membre du groupe
 Bauchez Marguerite 21803320  
